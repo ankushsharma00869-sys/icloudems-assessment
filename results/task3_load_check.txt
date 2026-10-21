@@ -1,0 +1,5 @@
+FROM FILE  parent rows: 41 | parent amount sum: 546000.0
+FROM FILE  child  rows: 76 | child  amount sum: 489462.0
+FROM DB:
+parent	41	546000.00
+child	76	489462.00
